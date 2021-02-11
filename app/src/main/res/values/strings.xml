@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PAM_Quis1</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="loginUser">LOGIN USER</string>
+    <string name="Name">FullName</string>
+    <string name="CPass">Confirm password</string>
+    <string name="Regis">USERNAME REGISTER</string>
+    <string name="Register">Register</string>
+</resources>
